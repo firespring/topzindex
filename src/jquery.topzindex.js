@@ -1,6 +1,6 @@
 /*	
 	TopZIndex plugin for jQuery
-	Version: 1.2
+	Version: 1.2.1
 
 	http://topzindex.googlecode.com/
 	
