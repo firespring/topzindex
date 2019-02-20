@@ -1,0 +1,15 @@
+{
+  "name": "topzindex",
+  "version": "1.2.2",
+  "description": "TopZIndex plugin for jQuery",
+  "main": "src/jquery.topzindex.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/firespring/topzindex.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/firespring/topzindex/issues"
+  },
+  "homepage": "https://github.com/firespring/topzindex#readme"
+}
